@@ -7,3 +7,6 @@ ambulent is the senser that uses light to move.
 
 # September 10, 2024
 this is an example entry
+
+# September 17, 2024
+this is a free week
