@@ -10,3 +10,6 @@ this is an example entry
 
 # September 17, 2024
 this is a free week
+
+# September 20, 2024
+the activity i did today was rocket blaster:build a scratch project
