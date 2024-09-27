@@ -13,3 +13,6 @@ this is a free week
 
 # September 20, 2024
 the activity i did today was pac-man ZERO
+
+# September 27, 2024
+the reason it is important to following the instruction of coding step by step is because if you make one mistake can ruin the entire code
