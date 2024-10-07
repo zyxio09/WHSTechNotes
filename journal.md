@@ -17,5 +17,5 @@ the activity i did today was pac-man ZERO
 # September 27, 2024
 the reason it is important to following the instruction of coding step by step is because if you make one mistake can ruin the entire code
 
-# October 7, 2024
+# October 2, 2024
 computer science is important because if we didnt have it apps wouldnt exist and my life would be diffrent becuse i wouldnt have anything to text or call my friends or family.
