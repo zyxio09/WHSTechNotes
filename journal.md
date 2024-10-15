@@ -19,3 +19,6 @@ the reason it is important to following the instruction of coding step by step i
 
 # October 2, 2024
 computer science is important because if we didnt have it apps wouldnt exist and my life would be diffrent becuse i wouldnt have anything to text or call my friends or family.
+
+# October 15, 2024
+Coding can teach you how to break down problems and make them into smaller steps. technology is becoming the biggest thing and understanding code can help you get a job. coding can enhance creativity by letting children create thing the cant in the real world. 
