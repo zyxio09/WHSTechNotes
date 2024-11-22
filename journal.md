@@ -22,3 +22,7 @@ computer science is important because if we didnt have it apps wouldnt exist and
 
 # October 15, 2024
 Coding can teach you how to break down problems and make them into smaller steps. technology is becoming the biggest thing and understanding code can help you get a job. coding can enhance creativity by letting children create thing the cant in the real world. 
+
+# November 04, 2024
+it is important to protect your personal and sensitive information when publishing online because if you dont you can get hacked and lose all you stuff. some steps you can take are creating a strong pasword and not shareing it to anyone.i have and the way i handle it diffrently is by not shareing personal infermation to other people.
+
