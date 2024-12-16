@@ -28,3 +28,6 @@ it is important to protect your personal and sensitive information when publishi
 
 # Decamber 9, 2024
 the term "brainrot doesnt mean anything to me.the media has had a negative affect on me. the runner ups dont have any connection to my experiences with the internet. yes there is a possible way to balance meaningful engagement with technology while avoiding “brain rot”. the way you can balance the meaning is by teach the younger audences educational stuff. 
+
+# December 16, 2024
+yes
