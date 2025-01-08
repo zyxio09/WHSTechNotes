@@ -31,3 +31,6 @@ the term "brainrot doesnt mean anything to me.the media has had a negative affec
 
 # December 16, 2024
 yes
+
+# January 1, 2025
+i enjoyed the coding and how easy it was to learn. i would like to know how to create games. yes, i am interested in a python and unity certification. 
