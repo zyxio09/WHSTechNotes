@@ -34,3 +34,12 @@ yes
 
 # January 8, 2025
 i enjoyed the coding and how easy it was to learn. i would like to know how to create games. yes, i am interested in a python and unity certification. 
+
+# January 27, 2025
+
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy     Civic| drilled hole|
+| Kayla    |gmc  |fixed wrong problem|
+| Bart     |coralla|stains on carpet|
+| Harrison |subaru|oil cap off|
