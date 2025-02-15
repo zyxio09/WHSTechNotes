@@ -35,11 +35,33 @@ yes
 # January 8, 2025
 i enjoyed the coding and how easy it was to learn. i would like to know how to create games. yes, i am interested in a python and unity certification. 
 
+# January 13, 2025
+
+i think that the shift will not be benficial to us because it would take our jobs away. i think proritizing ai will limit workers. i am changing by finding out how to make my own ai.
+
+# January 22, 2025
+
+the government ntervention impacts technology companies and their users by limiting them to specific thing. the way they can operate globally while addreassing conserns is by not make the people consern. i would implament a fire wall.
+
 # January 27, 2025
 
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
-| Jimmy     Civic| drilled hole|
+| Jimmy    |Civic| drilled hole|
 | Kayla    |gmc  |fixed wrong problem|
 | Bart     |coralla|stains on carpet|
 | Harrison |subaru|oil cap off|
+
+# February 3, 2025
+
+TCAS relies on a combination of surveillance sensors to collect data on the state of intruder aircraft and a set of algorithms that determine the best maneuver that the pilot should make to avoid a mid-air collision.Bad design refers to design that fails to meet user needs effectively, lacks functionality, or creates unnecessary complexity, which leads to frustration, inefficiency and a poor user experience. Cybersecurity in Aviation – Could hacking, jamming, or cyber vulnerabilities pose risks in air traffic management?
+
+# February 11, 2025
+
+| Shape    | Color | Count |
+| -------- | ----- | ----- |
+| Circle   | green |  7    |
+| Square   | yellow|  5    |
+| Hexagon  | brown | 6     |
+| Triangle |purple | 4     |
+| Octagon  | red   | 3     |
