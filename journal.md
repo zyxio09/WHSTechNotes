@@ -68,3 +68,12 @@ the most intresting ive learned was that there are things called minecraft args.
 Visual learners can use smart boards or tablets to draw pictures and look at other visual aids, while reading/writing learners can use the same media to absorb information or write down ideas. digital tools can revolutionise both student engagement and, on a more practical level, lesson planning and the use of classroom resources.  AI in education helps educators identify gaps in student knowledge and provide targeted feedback to improve learning outcomes.With the help of AI-powered chatbots and virtual assistants, educators can provide students with immediate support and assistance outside the classroom, helping them stay engaged and motivated.
 
 Teaching students about appropriate slang usage helps develop skills related to social emotional learning, like Effective communication Understanding when to use slang and when to use more formal language helps students communicate more respectfully in diffrent social situations. It can lead to misunderstandings or miscommunications. It may disrupt the learning environment .And it makes the students writing skills worse with all the abbriviations.
+
+# March 3, 2025
+| Name    | Power | Challenge |
+| :------ | :---- | :-------- |
+| Zara    |  telekanisis |sucure building |
+| Aether  | weather minipulation |  prevent assissination|
+| Thorne  |invisibility | underwater rescue  |
+| Silver  |mindcontrol  |retive stolen goods|
+| Tangier | shapeshiftin| extract prisoner|
