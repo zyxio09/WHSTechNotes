@@ -77,3 +77,6 @@ Teaching students about appropriate slang usage helps develop skills related to 
 | Thorne  |invisibility | underwater rescue  |
 | Silver  |mindcontrol  |retive stolen goods|
 | Tangier | shapeshiftin| extract prisoner|
+
+# March 18, 2025
+the activity that i completed was the spce invaders block coding one
