@@ -80,3 +80,6 @@ Teaching students about appropriate slang usage helps develop skills related to 
 
 # March 18, 2025
 the activity that i completed was the spce invaders block coding one
+
+# March 31, 2025
+im mentally ok emotinally good and phisically great. yeah there has been alot of stess ive delt with because of school. something that helps me is music it calms me down. i can talk to mmy big sister i trust her because she has helped me through countless things.
