@@ -86,3 +86,10 @@ im mentally ok emotinally good and phisically great. yeah there has been alot of
 
 # April 2, 2025
 the activity that i completed was the Rocket Blaster: Build a Scratch Project
+
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    | chocolate |graduation          | 35      | 
+| Michael  | vanilla | farewell         |   37    | 
+| Emma     | carrot | birthday         |   39    | 
