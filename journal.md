@@ -90,6 +90,6 @@ the activity that i completed was the Rocket Blaster: Build a Scratch Project
 # April 28, 2025
 | Name     | Flavor | Occasion | Price |
 | :------- | :----- | :------- | :---- |
-| Sally    | chocolate |graduation          | 35      | 
-| Michael  | vanilla | farewell         |   37    | 
-| Emma     | carrot | birthday         |   39    | 
+| Sally    |chocolate|graduation |35| 
+| Michael  |vanilla  |farewell    |37| 
+| Emma     |carrot   |birthday    |39| 
